@@ -4,4 +4,3 @@
 
 Made with Unity 2020.1.3f1 (Including Text Mesh Pro 1.0.54), Blender 2.80, GiMP.
 
-Developed by Can Düzel
