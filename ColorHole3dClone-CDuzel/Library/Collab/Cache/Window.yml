@@ -13,8 +13,81 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys: []
-    m_Values: 
+    m_Keys:
+    - Assets/Materials/Edge.mat
+    - Assets/Materials/Edge.mat.meta
+    - Assets/Materials/Hole/Hole.mat
+    - Assets/Materials/Hole/Hole.mat.meta
+    - Assets/Materials/Hole/Hole.shader
+    - Assets/Materials/Hole/Hole.shader.meta
+    - Assets/Materials/Table.mat
+    - Assets/Materials/background.mat
+    - Assets/Models/Materials/No Name.mat
+    - Assets/Models/hole.blend
+    - Assets/Models/hole.blend.meta
+    - Assets/Models/hole.blend1
+    - Assets/Models/hole.blend1.meta
+    - Assets/Models/table.blend
+    - Assets/Models/table.blend.meta
+    - Assets/Prefabs/Hole.prefab
+    - Assets/Prefabs/Hole.prefab.meta
+    - Assets/Scenes/levels/Level01.unity
+    - Assets/Scenes/levels/Level01.unity.meta
+    - Assets/Scenes/levels/Level01/LightingData.asset
+    - Assets/Scenes/levels/Level01/LightingData.asset.meta
+    - Assets/Scenes/levels/Level01/ReflectionProbe-0.exr
+    - Assets/Scenes/levels/Level01/ReflectionProbe-0.exr.meta
+    - Assets/Scenes/levels/Level02.meta
+    - Assets/Scenes/levels/Level02.unity
+    - Assets/Scenes/levels/Level02.unity.meta
+    - Assets/Scenes/levels/Level02/LightingData.asset
+    - Assets/Scenes/levels/Level02/LightingData.asset.meta
+    - Assets/Scenes/levels/Level02/Lightmap-0_comp_dir.png
+    - Assets/Scenes/levels/Level02/Lightmap-0_comp_dir.png.meta
+    - Assets/Scenes/levels/Level02/Lightmap-0_comp_light.exr
+    - Assets/Scenes/levels/Level02/Lightmap-0_comp_light.exr.meta
+    - Assets/Scenes/levels/Level02/Lightmap-0_comp_shadowmask.png
+    - Assets/Scenes/levels/Level02/Lightmap-0_comp_shadowmask.png.meta
+    - Assets/Scenes/levels/Level02/Lightmap-1_comp_dir.png
+    - Assets/Scenes/levels/Level02/Lightmap-1_comp_dir.png.meta
+    - Assets/Scenes/levels/Level02/Lightmap-1_comp_light.exr
+    - Assets/Scenes/levels/Level02/Lightmap-1_comp_light.exr.meta
+    - Assets/Scenes/levels/Level02/Lightmap-1_comp_shadowmask.png
+    - Assets/Scenes/levels/Level02/Lightmap-1_comp_shadowmask.png.meta
+    - Assets/Scenes/levels/Level02/Lightmap-2_comp_dir.png
+    - Assets/Scenes/levels/Level02/Lightmap-2_comp_dir.png.meta
+    - Assets/Scenes/levels/Level02/Lightmap-2_comp_light.exr
+    - Assets/Scenes/levels/Level02/Lightmap-2_comp_light.exr.meta
+    - Assets/Scenes/levels/Level02/Lightmap-2_comp_shadowmask.png
+    - Assets/Scenes/levels/Level02/Lightmap-2_comp_shadowmask.png.meta
+    - Assets/Scenes/levels/Level02/ReflectionProbe-0.exr
+    - Assets/Scenes/levels/Level02/ReflectionProbe-0.exr.meta
+    - Assets/Scenes/levels/Level03.meta
+    - Assets/Scenes/levels/Level03.unity
+    - Assets/Scenes/levels/Level03.unity.meta
+    - Assets/Scenes/levels/Level03/LightingData.asset
+    - Assets/Scenes/levels/Level03/LightingData.asset.meta
+    - Assets/Scenes/levels/Level03/ReflectionProbe-0.exr
+    - Assets/Scenes/levels/Level03/ReflectionProbe-0.exr.meta
+    - Assets/Scripts/CameraShake.cs
+    - Assets/Scripts/CameraShake.cs.meta
+    - Assets/Scripts/ChangeBallLayer.cs
+    - Assets/Scripts/Collision.cs
+    - Assets/Scripts/HoleMovement2.cs
+    - Assets/Scripts/Level.cs
+    - Assets/Scripts/Magnet.cs
+    - Assets/Scripts/StageTransition.cs
+    - Assets/Scripts/UIManager.cs
+    - Assets/Sprites/Materials/edges.mat
+    - Assets/Sprites/Materials/edges.mat.meta
+    - Assets/Sprites/edges.png
+    - Assets/Sprites/edges.png.meta
+    - Assets/Sprites/skirt.png
+    - Assets/Sprites/skirt.png.meta
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/QualitySettings.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
